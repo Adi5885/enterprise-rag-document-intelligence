@@ -1,4 +1,5 @@
-# Enterprise RAG Document Intelligence System
+<img width="1536" height="1024" alt="Three AI Dashboard Interfaces" src="https://github.com/user-attachments/assets/1878f0b9-9dd1-4f75-9438-82c4dc894eed" /># Enterprise RAG Document Intelligence System
+
 
 🚧 **Project Status: In Progress**
 
